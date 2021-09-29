@@ -40,15 +40,14 @@
         
        
         createPlatform(540, 600, 450);
-        createPlatform(500, 400, 450);
-        createPlatform(450, 50, 100);
-        createPlatform(0, 550, )
-        createPlatform(0, 400)
-      
-
+        createPlatform(620, 460, 104)
+        createPlatform(550);
+        createPlatform(530, 600, 50);
+        createPlatform( 5, 530);
+        createPlatform(0, 400);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     }
-    platform.init = init;
+    platform.init = init; 
 })(window);
